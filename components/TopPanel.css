@@ -1,0 +1,18 @@
+.top-panel-component {
+	z-index: 1;
+	position: fixed;
+	display: flex;
+	flex-direction: column;
+	height: 50px;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+	background-color: #4CE9FF;
+}
+
+.live-noti {
+	height: 40px;
+	width: 80px;
+	margin: auto;
+	text-align: center;
+}

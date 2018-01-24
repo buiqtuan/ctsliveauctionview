@@ -6,7 +6,7 @@ export class TopPanel extends React.Component {
 	render() {
 		return(
 			<div className="top-panel-component">
-				Hello!!
+				<div className="live-noti">Live</div>
 			</div>
 		);
 	}
